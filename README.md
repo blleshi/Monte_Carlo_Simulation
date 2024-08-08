@@ -1,4 +1,4 @@
-# Module 5 Challenge: Monte Carlo Simulation
+# Monte Carlo Simulation
 Author: Brigilda Lleshi
 
 ## Summary
